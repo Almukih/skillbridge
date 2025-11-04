@@ -128,26 +128,6 @@ Role	Email	Password	Access
 Job Seeker	john@example.com	jobseeker123	Browse and apply for jobs
 
 
-📁 Project Structure
-text
-skillbridge/
-├── backend/
-│   ├── config/          # Database configuration
-│   ├── controllers/     # Route controllers
-│   ├── models/          # Mongoose schemas
-│   ├── routes/          # Express routes
-│   ├── middleware/      # Auth & validation
-│   ├── seeds/           # Sample data
-│   └── server.js        # Entry point
-├── frontend/
-│   ├── public/          # Static files
-│   └── src/
-│       ├── components/  # Reusable components
-│       ├── pages/       # Route components
-│       ├── context/     # React context
-│       └── api/         # API configuration
-└── README.md
-
 
 
 🎯 API Endpoints
