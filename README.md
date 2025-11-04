@@ -1,4 +1,5 @@
 🚀 SkillBridge - Youth Job & Training Platform
+
 https://skillbridge-8x4wzvub4-alfreds-projects-5bcbfc40.vercel.app/
 
 A modern, full-stack web application connecting young job seekers with employers and training opportunities. SkillBridge helps bridge the gap between youth talent and career opportunities.
@@ -125,6 +126,8 @@ After seeding, use these credentials:
 
 Role	Email	Password	Access
 Job Seeker	john@example.com	jobseeker123	Browse and apply for jobs
+
+
 📁 Project Structure
 text
 skillbridge/
@@ -144,6 +147,9 @@ skillbridge/
 │       ├── context/     # React context
 │       └── api/         # API configuration
 └── README.md
+
+
+
 🎯 API Endpoints
 Authentication
 POST /api/users/register - User registration
